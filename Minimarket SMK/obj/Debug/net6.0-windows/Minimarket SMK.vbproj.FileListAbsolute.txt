@@ -1,0 +1,35 @@
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\bin\Debug\net6.0-windows\Minimarket SMK.exe
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\bin\Debug\net6.0-windows\Minimarket SMK.deps.json
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\bin\Debug\net6.0-windows\Minimarket SMK.runtimeconfig.json
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\bin\Debug\net6.0-windows\Minimarket SMK.dll
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\bin\Debug\net6.0-windows\Minimarket SMK.pdb
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\bin\Debug\net6.0-windows\Zstandard.Net.dll
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\bin\Debug\net6.0-windows\MySql.Data.xml
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket SMK.vbproj.AssemblyReference.cache
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket_SMK.Form1.resources
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket_SMK.Login.resources
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket SMK.vbproj.GenerateResource.cache
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket SMK.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket SMK.AssemblyInfoInputs.cache
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket SMK.AssemblyInfo.vb
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket SMK.vbproj.CoreCompileInputs.cache
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket SMK.vbproj.CopyComplete
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket SMK.dll
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\refint\Minimarket SMK.dll
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket SMK.pdb
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket SMK.genruntimeconfig.cache
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\ref\Minimarket SMK.dll
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket_SMK.kategori.resources
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket_SMK.Satuan.resources
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket_SMK.Barang.resources
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket_SMK.Supplier.resources
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket_SMK.User.resources
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket_SMK.Pembelian.resources
+D:\2022\LKS 2022\VBBET AppPenjualan SQL Server\Minimarket SMK\Minimarket SMK\obj\Debug\net6.0-windows\Minimarket_SMK.Laporan.resources
